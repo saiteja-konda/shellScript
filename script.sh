@@ -1,3 +1,4 @@
 #!/bin/sh
 # This is a comment!
-echo Hello World
+MY_MESSAGE='Hello, world!'
+echo $MY_MESSAGE
